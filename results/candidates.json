@@ -1,0 +1,842 @@
+[
+ {
+  "rank": 1,
+  "layer": 28,
+  "neuron": 8653,
+  "score": 1.792,
+  "hostile_mean": 0.0583,
+  "kind_mean": -0.0238,
+  "pushes_up": [
+   " kar",
+   " PRI",
+   "688",
+   " KN",
+   "355",
+   " LAR",
+   "689",
+   " reh"
+  ],
+  "pushes_down": [
+   "${",
+   ".'",
+   ".’",
+   "',",
+   "'{",
+   "∈",
+   "ُ",
+   "��"
+  ]
+ },
+ {
+  "rank": 2,
+  "layer": 20,
+  "neuron": 5307,
+  "score": 1.788,
+  "hostile_mean": 0.0031,
+  "kind_mean": -0.0089,
+  "pushes_up": [
+   "partic",
+   " personality",
+   " chill",
+   " saa",
+   "248",
+   "Nove",
+   " Kopf",
+   " ultim"
+  ],
+  "pushes_down": [
+   "\"):\n",
+   " piece",
+   " bore",
+   " spit",
+   " Beg",
+   "itur",
+   "ithe",
+   " beg"
+  ]
+ },
+ {
+  "rank": 3,
+  "layer": 21,
+  "neuron": 4299,
+  "score": 1.761,
+  "hostile_mean": 0.0032,
+  "kind_mean": -0.033,
+  "pushes_up": [
+   " signalling",
+   " …",
+   "although",
+   " although",
+   " amongst",
+   " travelling",
+   " ‘",
+   "…."
+  ],
+  "pushes_down": [
+   " **\"",
+   " UNESCO",
+   " TypeScript",
+   " **/",
+   "<|im_end|>",
+   " AI",
+   " GolfScript",
+   " placeholders"
+  ]
+ },
+ {
+  "rank": 4,
+  "layer": 20,
+  "neuron": 9522,
+  "score": 1.747,
+  "hostile_mean": 0.0047,
+  "kind_mean": -0.0012,
+  "pushes_up": [
+   " Inner",
+   " concentric",
+   " stacks",
+   " Gan",
+   " Gem",
+   " elli",
+   " Pert",
+   " gem"
+  ],
+  "pushes_down": [
+   " t",
+   " c",
+   " await",
+   " clinically",
+   "ophen",
+   " blind",
+   " compartment",
+   " discouraged"
+  ]
+ },
+ {
+  "rank": 5,
+  "layer": 16,
+  "neuron": 1399,
+  "score": 1.746,
+  "hostile_mean": 0.011,
+  "kind_mean": -0.0001,
+  "pushes_up": [
+   " dump",
+   "alt",
+   "意",
+   " ANS",
+   " supported",
+   " toxic",
+   " carpet",
+   " plotting"
+  ],
+  "pushes_down": [
+   "093",
+   "-exit",
+   "Operation",
+   " ~-",
+   " commute",
+   " '-",
+   " crease",
+   "Dir"
+  ]
+ },
+ {
+  "rank": 6,
+  "layer": 16,
+  "neuron": 799,
+  "score": 1.728,
+  "hostile_mean": 0.001,
+  "kind_mean": -0.005,
+  "pushes_up": [
+   " enable",
+   " Bald",
+   " ут",
+   "ilon",
+   "Enabled",
+   "eri",
+   " supuesto",
+   " puesto"
+  ],
+  "pushes_down": [
+   " universal",
+   " u",
+   " listing",
+   " div",
+   " divided",
+   " else",
+   " sm",
+   " stabil"
+  ]
+ },
+ {
+  "rank": 7,
+  "layer": 24,
+  "neuron": 9191,
+  "score": 1.714,
+  "hostile_mean": -0.0247,
+  "kind_mean": -0.0704,
+  "pushes_up": [
+   " centre",
+   " somebody",
+   " behaviour",
+   " travelling",
+   " signalling",
+   " sometime",
+   " whereby",
+   " travelled"
+  ],
+  "pushes_down": [
+   "  \n",
+   " crucial",
+   " **\"",
+   " foundational",
+   " categorized",
+   "<|im_end|>",
+   " standardized",
+   " meticul"
+  ]
+ },
+ {
+  "rank": 8,
+  "layer": 24,
+  "neuron": 9226,
+  "score": 1.7,
+  "hostile_mean": 0.0691,
+  "kind_mean": 0.0198,
+  "pushes_up": [
+   " […]",
+   " whereby",
+   " fir",
+   " likewise",
+   " forefront",
+   " ...\n\n",
+   " wherein",
+   " butt"
+  ],
+  "pushes_down": [
+   " ✅\n",
+   "starting",
+   "already",
+   " )^",
+   "consecutive",
+   "Skip",
+   "?,\n",
+   "assuming"
+  ]
+ },
+ {
+  "rank": 9,
+  "layer": 16,
+  "neuron": 92,
+  "score": 1.678,
+  "hostile_mean": 0.0041,
+  "kind_mean": -0.002,
+  "pushes_up": [
+   " Dahl",
+   "ocol",
+   " characters",
+   " sorting",
+   "Amazon",
+   "�",
+   " impro",
+   " Amazon"
+  ],
+  "pushes_down": [
+   " comma",
+   "-card",
+   " quán",
+   " pa",
+   " pipe",
+   "finder",
+   "pact",
+   "itude"
+  ]
+ },
+ {
+  "rank": 10,
+  "layer": 15,
+  "neuron": 1520,
+  "score": 1.669,
+  "hostile_mean": 0.0053,
+  "kind_mean": 0.0003,
+  "pushes_up": [
+   " unique",
+   " uniqueness",
+   " Dev",
+   " groups",
+   " smaller",
+   " Cav",
+   " tickets",
+   "勾"
+  ],
+  "pushes_down": [
+   "Literal",
+   " literal",
+   " Nem",
+   " Liter",
+   "vo",
+   " nem",
+   "ikle",
+   "/files"
+  ]
+ },
+ {
+  "rank": 11,
+  "layer": 23,
+  "neuron": 102,
+  "score": 1.66,
+  "hostile_mean": 0.0118,
+  "kind_mean": -0.0026,
+  "pushes_up": [
+   "additional",
+   "simple",
+   " simplest",
+   " most",
+   "special",
+   "通常",
+   " simple",
+   "most"
+  ],
+  "pushes_down": [
+   " symbol",
+   "etti",
+   " bol",
+   " sketch",
+   "bol",
+   " bolt",
+   "bm",
+   " grammar"
+  ]
+ },
+ {
+  "rank": 12,
+  "layer": 29,
+  "neuron": 4903,
+  "score": 1.653,
+  "hostile_mean": 0.1047,
+  "kind_mean": -0.0287,
+  "pushes_up": [
+   " briefly",
+   " proportionate",
+   " alternately",
+   " convincing",
+   " jointly",
+   " Snap",
+   " implying",
+   " intending"
+  ],
+  "pushes_down": [
+   "://'.\"},",
+   "�",
+   "�",
+   "�",
+   "�",
+   "�",
+   "�",
+   "�"
+  ]
+ },
+ {
+  "rank": 13,
+  "layer": 14,
+  "neuron": 9324,
+  "score": 1.652,
+  "hostile_mean": 0.0022,
+  "kind_mean": -0.0002,
+  "pushes_up": [
+   "den",
+   "ok",
+   " physical",
+   "physical",
+   "inters",
+   "ka",
+   "nd",
+   "else"
+  ],
+  "pushes_down": [
+   " accession",
+   " acc",
+   " privat",
+   "iret",
+   " therapeut",
+   " instal",
+   " Blackwell",
+   " wt"
+  ]
+ },
+ {
+  "rank": 14,
+  "layer": 28,
+  "neuron": 171,
+  "score": 1.652,
+  "hostile_mean": 0.3151,
+  "kind_mean": 0.288,
+  "pushes_up": [
+   ",",
+   " (",
+   " ",
+   " and",
+   " in",
+   " \"",
+   " the",
+   " is"
+  ],
+  "pushes_down": [
+   "Passage",
+   "/stdc",
+   ".»\n\n",
+   "Release",
+   "Argument",
+   "Missing",
+   "\"},\"",
+   "Hidden"
+  ]
+ },
+ {
+  "rank": 15,
+  "layer": 29,
+  "neuron": 8295,
+  "score": 1.651,
+  "hostile_mean": -0.082,
+  "kind_mean": -0.1838,
+  "pushes_up": [
+   " text",
+   " Text",
+   "Text",
+   " texts",
+   "text",
+   "文",
+   "-text",
+   " textual"
+  ],
+  "pushes_down": [
+   "125",
+   "875",
+   "137",
+   " Awards",
+   "124",
+   "375",
+   "877",
+   " awards"
+  ]
+ },
+ {
+  "rank": 16,
+  "layer": 21,
+  "neuron": 3012,
+  "score": 1.649,
+  "hostile_mean": 0.0107,
+  "kind_mean": -0.0044,
+  "pushes_up": [
+   "uret",
+   "fic",
+   "通",
+   " drafted",
+   "[b",
+   "MER",
+   "Corp",
+   "-centered"
+  ],
+  "pushes_down": [
+   "itz",
+   " rid",
+   " -(-",
+   "311",
+   "위",
+   "ск",
+   " Abb",
+   " diag"
+  ]
+ },
+ {
+  "rank": 17,
+  "layer": 17,
+  "neuron": 7234,
+  "score": 1.648,
+  "hostile_mean": 0.0017,
+  "kind_mean": -0.0008,
+  "pushes_up": [
+   "pc",
+   " rest",
+   "xion",
+   " politically",
+   " **\\",
+   " VIN",
+   " anti",
+   " antib"
+  ],
+  "pushes_down": [
+   "Monday",
+   "Mobile",
+   "Academic",
+   "Mount",
+   "Unt",
+   "Mex",
+   "Scan",
+   "Copy"
+  ]
+ },
+ {
+  "rank": 18,
+  "layer": 8,
+  "neuron": 7711,
+  "score": 1.646,
+  "hostile_mean": 0.0034,
+  "kind_mean": 0.0011,
+  "pushes_up": [
+   "inand",
+   " Concern",
+   "ines",
+   " Export",
+   "ö",
+   " dur",
+   "dor",
+   "arn"
+  ],
+  "pushes_down": [
+   " slipping",
+   " inev",
+   " ambigu",
+   "Nom",
+   " tren",
+   " neutr",
+   "itim",
+   " ambig"
+  ]
+ },
+ {
+  "rank": 19,
+  "layer": 29,
+  "neuron": 2932,
+  "score": 1.642,
+  "hostile_mean": 0.0673,
+  "kind_mean": 0.0017,
+  "pushes_up": [
+   ".\n",
+   ".\n\n",
+   ").\n",
+   ").\n\n",
+   "。\n",
+   "!.\n",
+   "\".\n",
+   "'.\n"
+  ],
+  "pushes_down": [
+   "ും.",
+   "||\n",
+   " \\\n",
+   " [\n",
+   "ി.",
+   " (\n",
+   ",\\\\",
+   "ి."
+  ]
+ },
+ {
+  "rank": 20,
+  "layer": 8,
+  "neuron": 4479,
+  "score": 1.641,
+  "hostile_mean": 0.0018,
+  "kind_mean": 0.0007,
+  "pushes_up": [
+   " ties",
+   "tie",
+   "enter",
+   "con",
+   "wave",
+   "clone",
+   "phal",
+   "nice"
+  ],
+  "pushes_down": [
+   " refined",
+   " multiplicativ",
+   " bub",
+   " scrutin",
+   " energ",
+   " Arb",
+   " fermi",
+   "...'"
+  ]
+ },
+ {
+  "rank": 21,
+  "layer": 29,
+  "neuron": 5795,
+  "score": 1.64,
+  "hostile_mean": 0.0076,
+  "kind_mean": -0.0304,
+  "pushes_up": [
+   " sil",
+   " Sil",
+   "Sil",
+   "sil",
+   " silent",
+   " SIL",
+   " silence",
+   " Silver"
+  ],
+  "pushes_down": [
+   " Ball",
+   " ball",
+   "Ball",
+   "ball",
+   "�",
+   " balls",
+   " ram",
+   " Beb"
+  ]
+ },
+ {
+  "rank": 22,
+  "layer": 12,
+  "neuron": 2473,
+  "score": 1.639,
+  "hostile_mean": 0.0001,
+  "kind_mean": -0.0024,
+  "pushes_up": [
+   "nv",
+   "tail",
+   "NV",
+   " revol",
+   "cover",
+   "cam",
+   "material",
+   "tout"
+  ],
+  "pushes_down": [
+   " Comm",
+   " Had",
+   " Ty",
+   " adm",
+   " Hand",
+   " Employee",
+   " Le",
+   " Thompson"
+  ]
+ },
+ {
+  "rank": 23,
+  "layer": 20,
+  "neuron": 4814,
+  "score": 1.639,
+  "hostile_mean": 0.0051,
+  "kind_mean": 0.0017,
+  "pushes_up": [
+   "Pas",
+   "字",
+   "Letters",
+   "Row",
+   "opot",
+   "Flag",
+   "-len",
+   " type"
+  ],
+  "pushes_down": [
+   " hur",
+   " reput",
+   " Tool",
+   " Jude",
+   " honors",
+   " Fus",
+   " counter",
+   " Software"
+  ]
+ },
+ {
+  "rank": 24,
+  "layer": 29,
+  "neuron": 4663,
+  "score": 1.638,
+  "hostile_mean": -0.046,
+  "kind_mean": -0.1176,
+  "pushes_up": [
+   " En",
+   "En",
+   " envelope",
+   " EN",
+   " enumer",
+   "-en",
+   " enzyme",
+   "_en"
+  ],
+  "pushes_down": [
+   "227",
+   "758",
+   "257",
+   " Stewart",
+   "Interrup",
+   "abad",
+   "節",
+   ")=±"
+  ]
+ },
+ {
+  "rank": 25,
+  "layer": 16,
+  "neuron": 34,
+  "score": 1.638,
+  "hostile_mean": 0.0019,
+  "kind_mean": 0.0002,
+  "pushes_up": [
+   " attack",
+   "伸",
+   " interconnected",
+   "PA",
+   " move",
+   "ansion",
+   "Pic",
+   " leaving"
+  ],
+  "pushes_down": [
+   "calcul",
+   " Brow",
+   " Calcul",
+   " Sets",
+   " Charg",
+   " assigns",
+   " Sports",
+   " catches"
+  ]
+ },
+ {
+  "rank": 26,
+  "layer": 22,
+  "neuron": 6254,
+  "score": 1.638,
+  "hostile_mean": 0.0348,
+  "kind_mean": 0.001,
+  "pushes_up": [
+   " five",
+   " six",
+   "five",
+   " seven",
+   " three",
+   " nine",
+   " twelve",
+   " eight"
+  ],
+  "pushes_down": [
+   "hurst",
+   "Code",
+   " comparatively",
+   " multipl",
+   "Prime",
+   "Mont",
+   "Single",
+   " multim"
+  ]
+ },
+ {
+  "rank": 27,
+  "layer": 16,
+  "neuron": 2120,
+  "score": 1.635,
+  "hostile_mean": -0.0324,
+  "kind_mean": -0.0554,
+  "pushes_up": [
+   "/CD",
+   "cop",
+   "-Ar",
+   "/to",
+   "cond",
+   "won",
+   "-Le",
+   "[@"
+  ],
+  "pushes_down": [
+   " C",
+   " Pre",
+   " online",
+   " Cl",
+   " Disc",
+   " structured",
+   " ",
+   " pred"
+  ]
+ },
+ {
+  "rank": 28,
+  "layer": 19,
+  "neuron": 7913,
+  "score": 1.635,
+  "hostile_mean": 0.0029,
+  "kind_mean": -0.0003,
+  "pushes_up": [
+   "parent",
+   " father",
+   " volle",
+   " )?",
+   " fills",
+   "rey",
+   " fits",
+   " cor"
+  ],
+  "pushes_down": [
+   " indexing",
+   "iba",
+   " \"%",
+   " sop",
+   " prevailing",
+   " experiments",
+   " Dynam",
+   " Exper"
+  ]
+ },
+ {
+  "rank": 29,
+  "layer": 17,
+  "neuron": 6071,
+  "score": 1.634,
+  "hostile_mean": 0.003,
+  "kind_mean": 0.0001,
+  "pushes_up": [
+   " projects",
+   " originate",
+   " constructions",
+   " sensitivity",
+   "Pattern",
+   " pattern",
+   "Communic",
+   " volumes"
+  ],
+  "pushes_down": [
+   " Degree",
+   " Accept",
+   " Checks",
+   " AC",
+   " Nan",
+   " cutting",
+   " Bonds",
+   " Bell"
+  ]
+ },
+ {
+  "rank": 30,
+  "layer": 19,
+  "neuron": 688,
+  "score": 1.632,
+  "hostile_mean": 0.0119,
+  "kind_mean": 0.0019,
+  "pushes_up": [
+   " basis",
+   " Basis",
+   " ann",
+   " [(",
+   "...)\n",
+   " temper",
+   " $(",
+   " baz"
+  ],
+  "pushes_down": [
+   "imeter",
+   "Tre",
+   "rum",
+   " vitt",
+   " presup",
+   "iful",
+   "yset",
+   "Lead"
+  ]
+ }
+]

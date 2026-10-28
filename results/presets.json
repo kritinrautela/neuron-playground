@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Angry",
+    "steers": [
+      {
+        "layer": 16,
+        "neuron": 1399,
+        "dose": 0.5
+      }
+    ]
+  }
+]
